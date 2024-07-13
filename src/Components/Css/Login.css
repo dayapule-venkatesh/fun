@@ -1,0 +1,40 @@
+h1 {
+  text-align: center;
+}
+
+.log {
+  text-align: center;
+
+}
+
+ul {
+  list-style: none;
+}
+
+ul li {
+  padding: 10px;
+}
+
+label {
+  font-style: italic;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 100px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-bottom: 15px;
+
+}
+
+button[type="submit"] {
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}

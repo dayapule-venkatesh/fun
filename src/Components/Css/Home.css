@@ -1,0 +1,31 @@
+nav {
+  background-color: rgb(150, 246, 209);
+  color: blue;
+  padding: 10px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+
+
+}
+
+nav li {
+  display: inline;
+  margin-right: 10px;
+
+}
+
+nav a {
+  text-decoration: none;
+  padding: 30px;
+}
+
+a button {
+  border-radius: 100px;
+  padding: 10px;
+  background-color: rgb(197, 255, 236)
+}
